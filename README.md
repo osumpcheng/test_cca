@@ -1,6 +1,3 @@
 # test_cca
-simply test canonical correspondence analysis
+test canonical correspondence analysis and other ordination methods
 
-Hello world!
-
-how about run some cca?
